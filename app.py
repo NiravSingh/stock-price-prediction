@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas_datareader as pdr
 import yfinance as yf
 import pandas as pd
 import numpy as np
